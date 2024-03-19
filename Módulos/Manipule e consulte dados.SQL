@@ -3,7 +3,7 @@ CREATE DATABASE SUCOS;
 
 USE sucos;
 
---Criando tabela "tbcliente":
+--Cria a tabela "tbcliente":
 CREATE TABLE tbcliente
 ( CPF VARCHAR (11) ,
 NOME VARCHAR (100) ,
