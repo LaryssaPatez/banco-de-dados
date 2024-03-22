@@ -13,3 +13,16 @@ Esse repositório contém projetos desenvolvidos com linguagem SQL durante os cu
 <li><em>Realizando consultas com SELECT e filtrando dados com WHERE</em></li>
 <li><em>Adicionando PRIMARY KEY</em></li> 
 </details>
+
+<Sumary>
+<details>
+<summary>
+<strong>Avançando no SQL</strong></summary>
+<ul><li><em>Funções</em></li>
+<li><em>ORDER BY</em></li>
+<li><em>GROUP BY</em></li>
+<li><em>Sub-Queries</em></li>
+<li><em>RLEFT e RIGHT JOIN</em></li>
+<li><em>LIMIT</em></li> 
+</details>
+
