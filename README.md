@@ -1,6 +1,6 @@
 # [Curso de SQL com MySQL](https://www.alura.com.br/formacao-oracle-mysql)
 
-Esse repositório contém projetos desenvolvidos com linguagem SQL durante os cursos da [Alura](https://www.alura.com.br/) de SQL com MySQL.
+Nesse repositório encontrará conteúdos estudados durante os cursos da [Alura](https://www.alura.com.br/) de SQL com MySQL.
 
 <h2 align="left">Módulos</h2>
 <Sumary>
